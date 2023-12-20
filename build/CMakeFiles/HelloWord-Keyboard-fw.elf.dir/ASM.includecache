@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tl851/Documents/GitHub/HelloWord-Keyboard/2.Firmware/HelloWord-Keyboard-fw/startup/startup_stm32f103xb.s
+

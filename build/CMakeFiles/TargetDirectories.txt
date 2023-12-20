@@ -1,0 +1,3 @@
+C:/Users/tl851/Documents/GitHub/HelloWord-Keyboard/build/CMakeFiles/HelloWord-Keyboard-fw.elf.dir
+C:/Users/tl851/Documents/GitHub/HelloWord-Keyboard/build/CMakeFiles/edit_cache.dir
+C:/Users/tl851/Documents/GitHub/HelloWord-Keyboard/build/CMakeFiles/rebuild_cache.dir
